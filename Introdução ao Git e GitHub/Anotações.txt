@@ -1,0 +1,8 @@
+Link para downloud do Git: https://git-scm.com/downloads
+
+git status: mostra as modificações, monitora os arquivos
+mv: comando para mover
+tab: para autocompletar o texto
+ctrl l: limpa a tela
+ls: lista conteudo da pasta
+git add *: pega tudo que foi modificado
